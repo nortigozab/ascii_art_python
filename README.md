@@ -53,7 +53,7 @@ _Siguiendo la Documentacion de [ascci-magic](https://pypi.org/project/ascii-magi
 
 ## Resultado
 
-| ![image text](https://github.com/nortigozab/ascii_art_python/blob/main/img/dibujo.png?raw=true? "image_to_convert")| ![image text](https://github.com/nortigozab/ascii_art_python/blob/main/img/result.png?raw=true? "result") |
+| ![image text](https://github.com/nortigozab/ascii_art_python/blob/main/img/dibujo.png?raw=true? "image_to_convert")| ![image text](https://github.com/nortigozab/ascii_art_python/blob/main/img/file.gif?raw=true? "result") |
 | --- | ---|
 
 ## License  
