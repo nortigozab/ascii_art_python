@@ -1,7 +1,7 @@
  
 # Ascii_art_Python
 
- ![Badge en Desarollo](https://img.shields.io/badge/state-sucess-green) 
+ ![Badge en Desarollo](https://img.shields.io/badge/STATE-SUCESS-green) 
  ![GitHub Org's stars](https://img.shields.io/github/stars/nortigozab?style=social)
  ![GitHub](https://img.shields.io/github/license/nortigozab/ascii_art_python)
 
