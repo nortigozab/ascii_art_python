@@ -11,4 +11,4 @@ options = {
     'format': 'png',
     'quality': '50',
 }
-imgkit.from_url('ascii_art.html', 'out.png',options=options)
+imgkit.from_url('ascii_art.html', './img/out.png',options=options)
