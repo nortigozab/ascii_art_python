@@ -33,7 +33,7 @@ _Como mi equipo es basado en derivado de arch lo instale compilando el PKGBUILD_
   makepkg -si
 ~~~
 
-_Siguiendo la Documentacion de [ascci-magic](https://pypi.org/project/ascii-magic/)_
+_Siguiendo la Documentacion de [ascci-magic](https://pypi.org/project/ascii-magic/) y de [imgkit](https://pypi.org/project/imgkit/)_
 
 - Importamos las librerias en el archivo de python
 
